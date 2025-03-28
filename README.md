@@ -16,11 +16,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/car-tracking.git
+   git clone https://github.com/Lexeler/unique-car-tracking-system
    ```
 2. Перейдите в директорию проекта:
    ```bash
-   cd car-tracking
+   cd unique-car-tracking-system
    ```
 3. Установите зависимости:
    ```bash
